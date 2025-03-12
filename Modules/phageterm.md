@@ -5,7 +5,7 @@ wget test_data.tar https://github.com/ckigenk/Phage-Bioinformatics-Training/raw/
 ```
 ### Extract the file
 ```
-tar -xcvf test_data
+tar -xcvf test_data.tar
 ```
 ### Activate phageterm
 ```
