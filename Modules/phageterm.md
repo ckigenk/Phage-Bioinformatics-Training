@@ -9,7 +9,7 @@ tar -xvf test_data.tar
 ```
 ### Activate phageterm
 ```
-conda activate phageterm
+conda activate PhageTerm_env_py3
 ```
 ### Run phageterm
 ```
