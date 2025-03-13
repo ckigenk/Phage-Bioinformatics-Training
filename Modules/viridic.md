@@ -9,7 +9,7 @@ cd viridic_analysis
 ```
 ### Step 2: Download Viridic software
 ```
-wget https://rhea.icbm.uni-oldenburg.de/shiny/VIRIDIC05/session/c7426903cb5ae1c37ef52f5133e217a8/download/Down_standAlone?w=
+wget https://rhea.icbm.uni-oldenburg.de/shiny/VIRIDIC02/session/d811cf1c5c8b10d972ec8ef6555c6fe0/download/Down_standAlone?w=
 ```
 ### Step 3: Extract the file
 ```
