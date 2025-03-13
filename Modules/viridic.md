@@ -25,6 +25,14 @@ wget https://github.com/ckigenk/Phage-Bioinformatics-Training/raw/refs/heads/mai
 ```
 tar -xvf test_data.tar
 ```
-### Run Viridic 
+### Step 8: Create project directory
+We are analyzing Enterococcus phages
 ```
-viridic.bash viriddi
+mkdir Enterococcus_phages
+```
+### Step 7: Run Viridic 
+```
+./viridic.bash projdir=Enterococcus_phages in=test_data/combined.fasta ncor=10
+```
+
+
