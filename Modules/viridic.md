@@ -1,5 +1,7 @@
 # VIRIDIC
 VIRIDIC (Virus Intergenomic Distance Calculator) computes pairwise intergenomic distances/similarities amongst viral genomes. 
+![image](https://github.com/user-attachments/assets/a5197f9b-55b2-4e37-a019-e4ce5db072ba)
+
 ### Step 1: Create directory and cd into it
 ```
 mkdir viridic_analysis
