@@ -15,7 +15,7 @@ tar -xvzf viridic_singularity_v1.1.tar.gz
 ```
 ### Step 4: Navigate to the viridic software folder
 ```
-cd viridic
+cd  viridic_v1.1
 ```
 ### Step 5: Download test dataset
 ```
