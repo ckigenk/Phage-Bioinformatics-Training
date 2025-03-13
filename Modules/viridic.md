@@ -30,6 +30,10 @@ We are analyzing Enterococcus phages
 ```
 mkdir Enterococcus_phages
 ```
+### Step 9: Combined the fasta files and save in project directory
+```
+cat test_dir/*.fasta Enterococcus_phages/combined_enterococcus_phages.fasta
+```
 ### Step 7: Run Viridic 
 ```
 ./viridic.bash projdir=Enterococcus_phages in=test_data/combined.fasta ncor=10
