@@ -7,11 +7,11 @@ cd viridic_analysis
 ```
 ### Step 2: Download Viridic software
 ```
-wget https://rhea.icbm.uni-oldenburg.de/shiny/VIRIDIC04/session/15d99fa79893cc3fb1d5317303d06170/download/Down_standAlone?w=
+wget https://rhea.icbm.uni-oldenburg.de/shiny/VIRIDIC05/session/c7426903cb5ae1c37ef52f5133e217a8/download/Down_standAlone?w=
 ```
 ### Step 3: Extract the file
 ```
-tar -xvf viridic_singularity_v1.1.tar.gz
+tar -xvzf viridic_singularity_v1.1.tar.gz
 ```
 ### Step 4: Navigate to the viridic software folder
 ```
